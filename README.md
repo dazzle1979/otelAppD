@@ -1,6 +1,6 @@
 # otelAppD
 
-Do not forget to replace <API-KEY> with your AppDynamics API key.
+Do not forget to replace `<API-KEY>` with your AppDynamics API key.
   
 To run:
   
